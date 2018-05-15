@@ -1,5 +1,5 @@
-import Foo from './Foo.html';
-import Bar from './Bar.html';
+const Foo = require('./Foo.html');
+const Bar = require('./Bar.html');
 
 export {
   Foo,
