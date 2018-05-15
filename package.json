@@ -1,0 +1,19 @@
+{
+  "name": "svelte-components-lib-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rob-balfre@github.com/rob-balfre/svelte-components-lib-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rob-balfre/svelte-components-lib-example/issues"
+  },
+  "homepage": "https://github.com/rob-balfre/svelte-components-lib-example#readme"
+}
