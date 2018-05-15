@@ -1,7 +1,7 @@
 const Foo = require('./Foo.html');
 const Bar = require('./Bar.html');
 
-export {
+module.exports = {
   Foo,
   Bar
-}
+};
