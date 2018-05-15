@@ -1,7 +1,2 @@
-const Foo = require('./Foo.html');
-const Bar = require('./Bar.html');
-
-module.exports = {
-  Foo,
-  Bar
-};
+export { default as Foo } from './Foo.html';
+export { default as Bar } from './Bar.html';
